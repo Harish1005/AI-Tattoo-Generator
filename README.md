@@ -1,8 +1,3 @@
-Got it ✅ Let’s generate a complete README.md for your AI Tattoo Generator project.
-I’ll assume it’s a React/Next.js + Tailwind + AI Image API app (since you were working on image generation + previews + toast notifications). You can edit the details if your stack differs.
-
-Here’s the ready-to-use README:
-
 # 🖋️ AI Tattoo Generator
 
 An AI-powered tattoo design generator where users can enter a prompt and instantly generate unique tattoo ideas with preview, download, and save options.  
